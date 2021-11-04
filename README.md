@@ -28,7 +28,7 @@ https://www.tvmaze.com/api
 ![mvvm](https://github.com/esh4rak/BasicLoginRegistration/blob/main/details.jpg)
 
 # Screen Record
-https://github.com/esh4rak/BasicLoginRegistration/blob/main/ScreenRecrod.gif
+-![Process](https://github.com/esh4rak/BasicLoginRegistration/blob/main/ScreenRecrod.gif)
 
 # APK File: 
 https://github.com/esh4rak/BasicLoginRegistration/blob/main/app/release/app-release.apk
