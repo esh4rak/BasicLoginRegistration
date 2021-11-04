@@ -6,6 +6,8 @@
 # Overview
 ![mvvm](https://github.com/esh4rak/BasicLoginRegistration/blob/main/dashboard.jpg)
 ![mvvm](https://github.com/esh4rak/BasicLoginRegistration/blob/main/sign_in.jpg)
+![mvvm](https://github.com/esh4rak/BasicLoginRegistration/blob/main/details.jpg)
+
 
 # APK File: 
 https://github.com/esh4rak/BasicLoginRegistration/blob/main/app/release/app-release.apk
