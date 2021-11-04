@@ -30,7 +30,6 @@ https://www.tvmaze.com/api
 # Screen Record
 https://github.com/esh4rak/BasicLoginRegistration/blob/main/screenrecord.mov
 
-![Game Process](https://github.com/Faizun-Faria/Thief-Robber-Landlord-Police/blob/main/Preview/gif_english.gif)
 # APK File: 
 https://github.com/esh4rak/BasicLoginRegistration/blob/main/app/release/app-release.apk
 
