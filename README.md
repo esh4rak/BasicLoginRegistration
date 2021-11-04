@@ -3,19 +3,6 @@
 
 # Login and Registration with MVVM Architecture, Room Database & Retrofit  
 
-# Overview
-![mvvm](https://github.com/esh4rak/BasicLoginRegistration/blob/main/dashboard.jpg)
-![mvvm](https://github.com/esh4rak/BasicLoginRegistration/blob/main/sign_in.jpg)
-![mvvm](https://github.com/esh4rak/BasicLoginRegistration/blob/main/details.jpg)
-
-
-# APK File: 
-https://github.com/esh4rak/BasicLoginRegistration/blob/main/app/release/app-release.apk
-
-# Project Structure
-![mvvm](https://github.com/esh4rak/BasicLoginRegistration/blob/main/project_structure.png)
-
-
 # Using Component 
 01. Architecture Component: MVVM
 02. View Model
@@ -33,4 +20,24 @@ https://github.com/esh4rak/BasicLoginRegistration/blob/main/app/release/app-rele
 
 # API
 https://www.tvmaze.com/api
+
+
+# Overview
+![mvvm](https://github.com/esh4rak/BasicLoginRegistration/blob/main/dashboard.jpg)
+![mvvm](https://github.com/esh4rak/BasicLoginRegistration/blob/main/sign_in.jpg)
+![mvvm](https://github.com/esh4rak/BasicLoginRegistration/blob/main/details.jpg)
+
+# Screen Record
+https://github.com/esh4rak/BasicLoginRegistration/blob/main/screenrecord.mov
+
+![Game Process](https://github.com/Faizun-Faria/Thief-Robber-Landlord-Police/blob/main/Preview/gif_english.gif)
+# APK File: 
+https://github.com/esh4rak/BasicLoginRegistration/blob/main/app/release/app-release.apk
+
+# Project Structure
+![mvvm](https://github.com/esh4rak/BasicLoginRegistration/blob/main/project_structure.png)
+
+
+
+
 
