@@ -4,13 +4,14 @@
 # Login and Registration with MVVM Architecture, Room Database & Retrofit  
 
 # Overview
-![mvvm](https://github.com/esh4rak/Event-Calendar/blob/main/overview.jpg)
+![mvvm](https://github.com/esh4rak/BasicLoginRegistration/blob/main/dashboard.jpg)
+![mvvm](https://github.com/esh4rak/BasicLoginRegistration/blob/main/sign_in.jpg)
 
 # APK File: 
 https://github.com/esh4rak/BasicLoginRegistration/blob/main/app/release/app-release.apk
 
 # Project Structure
-![mvvm](https://github.com/esh4rak/Event-Calendar/blob/main/project%20structure.png)
+![mvvm](https://github.com/esh4rak/BasicLoginRegistration/blob/main/project_structure.png)
 
 
 # Using Component 
