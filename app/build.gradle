@@ -41,6 +41,9 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
 
+    // Fix Duplicate class
+    implementation(platform("org.jetbrains.kotlin:kotlin-bom:1.8.0"))
+
 
     //Lifecycle
     def lifecycle_version = "2.6.1"
@@ -55,6 +58,7 @@ dependencies {
 
 
     // Annotation processor
+    //noinspection LifecycleAnnotationProcessorWithJava8
     annotationProcessor "androidx.lifecycle:lifecycle-compiler:$lifecycle_version"
 
     //Glide
